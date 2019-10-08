@@ -1,0 +1,11 @@
+.bg-blue{
+    background-color: blue !important;
+}
+
+.movie-card{
+    width: 95%;
+    height: auto;
+    overflow: hidden;
+    margin-bottom: 15px;
+    border: 1px solid blue !important;
+}

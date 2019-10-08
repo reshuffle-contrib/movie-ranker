@@ -15,6 +15,7 @@
     "@reshuffle/fetch-runtime": "^0.0.5",
     "@reshuffle/local-proxy": "^0.2.10",
     "@reshuffle/server-function": "^0.0.6",
+    "boostrap": "^2.0.0",
     "bootstrap": "^4.3.1",
     "eslint": "^5.16.0",
     "eslint-config-react-app": "^5.0.2",
@@ -22,7 +23,9 @@
     "react": "^16.9.0",
     "react-bootstrap": "^1.0.0-beta.12",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.0.1"
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.0.1",
+    "react-uuid": "^1.0.2"
   },
   "scripts": {
     "start": "cross-env EXTEND_ESLINT=true react-scripts start",
